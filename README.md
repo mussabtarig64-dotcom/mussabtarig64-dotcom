@@ -21,16 +21,19 @@ const mussab = {
     "Junior Web Developer", 
     "Cybersecurity Specialist"
   ],
-  languages: ["JavaScript", "HTML5", "CSS3", "Bash/Shell", "Python"],
+  languages: ["JavaScript", "C++", "HTML5", "CSS3", "Bash/Shell", "Python"],
   
   askMeAbout: [
     "Web Development",
+    "JavaScript & C++ Programming",
     "Cybersecurity Basics",
     "Network Security",
     "Linux System Administration"
   ],
 
   technologies: {
+    programming: ["C++", "JavaScript"],
+    
     frontend: {
       core: ["HTML5", "CSS3", "JavaScript"],
       frameworks: ["React"],
@@ -52,6 +55,6 @@ const mussab = {
     }
   },
 
-  currentFocus: "Building secure web applications & sharpening full-stack development skills",
+  currentFocus: "Building secure web applications, learning C++ algorithms, & sharpening full-stack skills",
   funFact: "Writing clean code is good, but writing secure code is better!"
 };
